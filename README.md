@@ -8,9 +8,9 @@ Our submission to SheHacks
     <link rel="stylesheet" href="" />
   </head>
   <body>
-    <h1>Christina Machado da Cruz</h1>
-    <h1>Montreal, Canada</h1>
-    <p>I dislike chocolate.</p>
+    <h1>Jiya Patel</h1>
+    <h1>Toronto</h1>
+    <p>This is my first hackathon!</p>
     <script src="" async defer></script>
   </body>
 </html>
