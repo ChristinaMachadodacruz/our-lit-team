@@ -8,9 +8,9 @@ Our submission to SheHacks
     <link rel="stylesheet" href="" />
   </head>
   <body>
-    <h1>Christina Machado da Cruz</h1>
-    <h1>Montreal, Canada</h1>
-    <p>I dislike chocolate.</p>
+    <h1>Jane Wang</h1>
+    <h1>Vancouver, Canada</h1>
+    <p>I like hip hop dance!</p>
     <script src="" async defer></script>
   </body>
 </html>
