@@ -8,9 +8,9 @@ Our submission to SheHacks
     <link rel="stylesheet" href="" />
   </head>
   <body>
-    <h1>Ahmed Mohamed</h1>
-    <h1>St.Catharines</h1>
-    <p>I like volleyball!</p>
+    <h1>Name</h1>
+    <h1>Hometown</h1>
+    <p>Fun fact</p>
     <script src="" async defer></script>
   </body>
 </html>
